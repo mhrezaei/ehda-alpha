@@ -1,7 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85a892bc-c3db-4068-bd88-4a0dee4b1a36" name="Default" comment="" />
+    <list default="true" id="85a892bc-c3db-4068-bd88-4a0dee4b1a36" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApplication/views/lottery/0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApplication/views/lottery/1.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session2dda16efea31ea25df7c5fd57dfd242b7795e1fe5e959ffe44b3a2b1b49d1a16c308a3d8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e701d2221c7f53b866f6e45ca54a0d51f7ccbc9cbe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e704032976096193427af77b00f508a1581308fb02" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7051daef7d2b7971d311cbcd9ce4bd6f39e9eb6cd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e70754a2ab20648b055884d0df9074bb51c280b813" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e70987dca244a4100c321a44a1c4a434aee75710fa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e70a433bf0d26818f9c055ea806ef6ff855a7c91b0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e70bb8d8b45be58f1edcb03c13c164ee0f5eb086ee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e70c00378ec91084e9b285db1586aca079c5cfa644" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e70c13eb161d39c2fef2ada38bffd822db1572d975" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e70def62201b25a132156b27cd0163162de8a964a9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e710874fe4cd9d3079cb8fb6f54544a3b87f30e5bf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7114a5774495a52d673048a8a0f4c49817797864d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7134a8bcff081265db30ba329faeb3f12940c369e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e713698cbe6503ddaad9c331e5668fe102f435994a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7141d34b85fd97541cdb5d45434908349da528287" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7152f4b8c2c406b761eb68f8c067b4681bdfe7996" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7165cd9e06c19b14e1e2200113aabed9f65570a6f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7185fe0b6f0836bbe379faa311825360a440c6fe1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e71873321b1e99c63032154712f9d50cff23ad78fe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e718bacd36993832efd97add0164fce94101d8da97" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e718bf3e15d2d85124adf46f6d449f30871c047af9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e71a196065a7cb6cfa9bbb8af0e053c99c5767de05" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e71ea341c2bbd90f7eb3956ae7ea23b35e1832c17e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7216d6783ff05b243da2172cef8fedf66d0d42e6b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e721ca756d32ee7de4fb2df96f389bcc6eee4ded60" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e723223881b8a85be70476724ff4b0f8f258c2d839" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72469424e35ad3deb78c4f96c2a3a64e48e0962a9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72491c59a5b5279b558d48fd7effd46f0822448f3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72516f3a74709ea4cca070f162558cd492cdb1293" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7277bdc0db491bb8339fbfb74c41c8aba6fa3e203" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7290e26a76fb39cea36e79e995a8628c93ff9a079" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72aad1c964b990b31d11063f0e7b25809c3765c47" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72f02e9d5d1ce2852927221529d133dd9425c83e4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72f1013cb998ce54bf955ecae6f2ac3edf9961222" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72f7c527b3c127d36ef3847acce4da1a13c5b26fd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72fd31fb787fab5379a4ef2dd3e6a36d23812070c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e72fd6e73658b46b5a4f36cc86ccd3bdd7e87fe383" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e73292bafa5a9d32da70e82a9e6b4a9ffd834dc76e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e738dba1948e9e2ab7130127372cb0ef72f226376a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e73987d6bedd881ec10d3fdd869ea9aad34088e9b9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e73a710e2c99d86e833a508114b4d115745822b524" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e73a7ec9a10b85e226aeb06c292d8f13a78dfa060c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e73ab89f3429bbad584d622fa5de2acb245b5d2d5d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e73d1a1ba2c339e1624f00eb9388ed46cea55ad3e6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7400be49842a02133fd1f97e6622a28827980d9e4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e741aa506c12810b91b24c948a0bf3a04806150629" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e744130db1fcd0d4c444b3a7a1a802c7e5d92f36c3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e74576ad320b309c2dacd0f4223930e84ee4bf8ddc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e745d6d17bdc28ba7200bb10605296c0f7f513c4e4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e74a2fc46a21d15f6297743e41838f596f7b11fa78" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e74b53e4563602179222e71aa00b5c8bc5520f6a58" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e74d316c409e1b4972531300bf4dd7b2593c9b8740" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e74d31b4304383a256069e4a2f175b042d80e1547a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e752f1e59c807c42b6679d27578f1abec09f16e215" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7530b8d74a0ec977563378eacd4f935ed112f21e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7530c75ea0230da3f53b12fc7e79798c081b63841" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e754a92cfd9a05869faa7f3c6a0dd6bd3c7056fa2e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7563f0a1a2a4ebc56c36b51eac14eb0f476cb6449" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e75887061fe350cc4f589129a28368cb5909d9982c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e759131e4c64d90a4f1bf993abba17aeaafe1b7cfe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e75967010dbb4ab2d302413d8c3c9b181cbf2580d0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e75c53d4df7cdd68f80f3538a10d3b54cbeef4f90a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e75ca960e1d955a1f9e1215721bcdcd548369ca423" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e75d0d9a400970f8b102c16971584d2701f3fd8c71" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e75d1b31568ff008fb66160356aa7be7095754f179" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e75e72dffd2c15811b59e64f0de5501fbfd6bf02f6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e760a9f497dfffcfd16d8e7a1fa95a2ffd5d19b7ae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e76291afae7804a8243a783eac96c16490b1f0dc90" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e763801e0e01137a3fbffdaee89a8e1b6146d0f6d1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e763976224ae2cd4a05aaede65ead259d895a41d2e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e765f53210ec35991f750256565b8fd34bc921ffef" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e767101dc295cd1211cf638163de66d0d7c735c917" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7671b986c15d436b331b7472541ec77572dc2e050" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7674dfd90fa6e038bf2aa7c7b056b7da4e52a82bf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e768b5e9bcf4c2e8978b0d750b85cff626486d3c74" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e769ec0c662e42affad3d608a4d03328c701b613f5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e76a0b67f0ed246f842a076e45560f44d62dcedcce" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e76a147b33c0e3514519d306e56b179cb8f4d90507" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e76c96937776b6625fd643e1313a35fd85f9cf3555" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e76df9f5acf15325b39dbb04341bde12024cc649e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e76e963f91cdda5c3e0948a3254d5156d786e1f5d6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e770a728e351a76908b1903c0a9af1d658e1e3c3ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7714a079d167a187c2e34e45976aa73c585af9a4d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e771dfb7848eb6c54be057110f4869dac77303d5ed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e776124d8f49bf2db1e598ab6c0be2ee42522d1be5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e776bb9717a8ccc2336f0601e90ca5475582f764c3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e77857c5e307cc664478fcbe09a9f12c7ed044f7c5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e77b1006a7b9dbfbbc2013ebe899899a83d8867c65" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e77c8e2752e02b71c55ff6cb129da9903524473dd6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e77cc213ca5f226e97fa4cfe53caca561226a459ca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e77cd9dd799129b0dcba448c384e3c262c8625569f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e77cf96173605fd48c28630b3a5cf600bf7086a794" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e77f7727faf136d2d29e94a2db57dbed53c5b3b94d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e781dbaeec6ecca01b49613c6b80f9ea5f0d202fc4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e782ca01ff6f2ce8b4a976a952887c918d8b85c61c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e784399607d9c17a30bb2943867beaadaaddb8f026" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7846cf0e5dfa4e351cc5d491d8c7c33986893fd3f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e78589a06a5ec9be96110dc8075acf6b6f738d0723" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e78a2a996bb2f8dd24145b34a046f734931d1ba0ca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e78a746eaecf3a301b2e08028308f12398071076f4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e78b2a5c74c5d1d426bcd7289141ac62084fa27913" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e78b7ab393ee35ab6b3416f683fae088c566ace1c1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e78d97776b57130a00a34ccf7ec1dd7d33c208041c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e78ee185645fd38a44254790d0b415d2b4b41e89af" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e79069d5871a08b533dc73ef4a445c320c19b601ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7966ae69f74d3de8034abac8b105e11acf22bd64f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e796dddaea83e3d16aafc75411c18c4ab2addc4a8c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e797fab990155240cbfd0057ede2c8228cba46db3c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e798d4422b153b88b0bb2feb7629140e7472685e88" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7991d6687deca61bf852e91450a75624e7183a12f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e79cb140782e27eb7fd64d647e4940bf286394effc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e79cf96cc75d82218315c70d0f1271d702216ec0d1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e79e6bc1f1efe0ebb7b2db4f9e7f1514a05b5f58ed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7a4e4e6c7b34864dbd9b4ad367c223862bff71153" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7a622d2bdc9ae7e34295087009993fe6947deba1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7a67bbd506539f4f4ab9e855230696727bf632d93" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7a7517374854e3ed6a2f2f109a337f810d9053de3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7a79b079456fd3cc22f13c3172538f00c35f8e724" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7a990635b300762d3ad9c3f6f6cf4d8cdd63d590f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7a9e9fce0d5f04a149adad3a0a72ed3d91ac94ab5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7abd381daebedd0c941e2d66aff953dc80bfe45b4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ac14b53b88e296f97f5b108702daf607b6a18037" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ad07f24e543916ac00f4477d129ac8633e149ca3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7af2ab59403b0f258754438fd1f09673db8b00cd0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7b70a82fb4d1f442c4db8c6eccdc6cbc267e712f0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7b9bd5f43e74e6e4682f9642ca8e9a11ec6f6cdb0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ba54b12671bf319b540dd71d4c9e72ad3eed099b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7baed1e2e6cf4b126b04c0241ab0f0cda37544336" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7bce7474134e479d201cb6ed7f52c24d7b11fb349" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7bd0ead9902fb14c3daac6e6fc7dae19c6712623b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7bd7b6dee315bb3050f3888be3858d0940491c1be" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7be4fe2df609aa80ba77d21b35aec0882ebc19df4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7be9c016f2dc378d9022744d86040d6a24fa36904" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c0d1e1a82d73623c09a52a1eaee8913bb4981cc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c1d240a3405e6322c328ffb34d2d6b4303a493cb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c274f6b6f758dc72bd0bbee63ce545fef986437d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c28f5e012893d6a4a4246604bba140eefb78db56" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c37941e36c8e16d0b177faeb01363f8da8e42140" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c37adb1591b6fff5b9e0f7355f725c44a1e04bd2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c3c95faad9c3361eaa73b1f73d98ea447759e572" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c3d3f00c5c0be576713ee488256f1a6c63a5cbdc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c636f6867a6def06e8c76e0945b526e55055270d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c85a24b075cfd1aca6f9a9c2fb14ecd0c39e0843" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c98792c9b493da2625549aee3eee8e6b90313ac0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7c9952ee61061046dc21e9f9d6748387b7ee3e331" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ca27ec4ccfa5a41f85aba182b63891c484367add" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7cba599c4de94ea82b8da5e395f8109ef8e0e7454" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7cdb7d0efbbc967f37f22363e228b6f0a3406c416" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ceba26e24d6291fa8478900c97465054e2d9c8c1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7d28eb1e65403dcd38f9f438899e3f9bf1379102f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7d3581f3d7fd440274c20ba88674ead555ee18010" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7d35ba669b569366e4f674b39f8187ed301f79023" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7d7779e0e214751a85c2be8af4cf8725873771c3b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7dd1c53c4da6984ad5dc6dfe8a27bf89733d832e8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7dd913ea2e8143a8448ecc8665fe4e4f99a07c62a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7df0cdec72e49dfd03f32419290d32569fc920ff8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7df23745d4c6f9b001a817078766d1ba5915a2228" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7e356ac16e73d2f0a345044de3dd5888a781ef5a1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7e49a97489d57fafb8faf68431bf562428484d624" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7eb0c595097ec71296241646451d1c183ad51c830" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7eb65696c60577be163eb91a6f8bc3fc6193fbcdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ecd966fe17266592144a0fc394bdd8f6328339c4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ed5cb038d21b62e5c1746a0137df99bed2abc317" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7f021afdc0989a3441addd5830931511e7329a4e7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7f16500b8f2d2ea22356d4457d2271d5e958c9666" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7f30496cbcd83c98de59157c0b3cc39c3d04f3bee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7f4c7a6df3fc8482ea765670876b46459debb4fa6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7f57eeceb658698ded1d568302d90b541339e5877" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7f90896e6f9a1d22b49ca88c4fa73c42bd86df961" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7fb9470e93fed4ffbac535fd0f0e6b122257f911f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7fc09cabe81e0397c8580288f11128f86081a5e85" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7fcea42bd45566082cf419b28d68b593aeccdf7bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7fddd246ce5e92cef61ef28d0ea16aed83535dfd0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7fec8dcab4938b2febab9fc27b40ea11e64d44c29" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_session837ec5754f503cfaaee0929fd48974e7ffe723a286cf50c458385e497dcadad79efac1ca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_sessionf528764d624db129b32c21fbca0cb8d61d8ae1d603143190fc36c47c98b4fc2008471d0c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApplication/session_cache/mhr_sessionf528764d624db129b32c21fbca0cb8d63191a51f825b2644b9619320395072dd3c11c7a2" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApplication/controllers/Home.php" afterPath="$PROJECT_DIR$/myApplication/controllers/Home.php" />
+    </list>
     <ignored path="card.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,111 +207,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Home.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Home.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myApplication/controllers/Home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="3817" column="28" selection-start-line="3817" selection-start-column="20" selection-end-line="3817" selection-end-column="28" />
+            <state relative-caret-position="501">
+              <caret line="5523" column="62" selection-start-line="5523" selection-start-column="62" selection-end-line="5523" selection-end-column="62" />
               <folding>
                 <element signature="n#__construct#0;n#Home#0;n#!!top" expanded="false" />
                 <element signature="e#340#462#0#PHP" expanded="false" />
-                <marker date="1474719116239" expanded="false" signature="718:801" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="814:871" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="931:1005" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="937:1004" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="1013:1019" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="1028:1039" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="1051:1065" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="1074:1079" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="1130:1209" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="1222:1277" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="1608:1883" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="1914:2183" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="2216:2487" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="2519:2927" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="2587:2666" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="2958:3234" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="3269:4282" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="3377:3446" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="3383:3445" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="3458:3469" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="3521:3610" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="3623:3677" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="3842:3947" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="3960:4028" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="4312:4407" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="4439:5726" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="4673:5720" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="4778:5563" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="4989:5099" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="4995:5098" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="5111:5124" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="5175:5549" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="5301:5531" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="5760:8375" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="5929:8369" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="6069:8249" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="8407:8890" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="8513:8884" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="8618:8874" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="8920:9334" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="9361:11489" placeholder="{...}" />
-                <marker date="1474719116239" expanded="true" signature="9631:9693" placeholder="..." />
-                <marker date="1474719116239" expanded="true" signature="9631:9709" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="10657:10681" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="10694:10718" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="10773:10797" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="10939:10963" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="11065:11089" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="11272:11296" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="11435:11483" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="11518:11969" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="11623:11963" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="11753:11929" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="11820:11915" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="11952:11963" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="12007:13093" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="12117:13087" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="12223:13077" placeholder="{...}" />
-                <marker date="1474719116239" expanded="false" signature="12461:13001" placeholder="..." />
-                <marker date="1474719116239" expanded="false" signature="13130:45946" placeholder="{...}" />
-                <marker date="1474719116239" expanded="true" signature="43312:43324" placeholder="..." />
-                <marker date="1474719116239" expanded="true" signature="43312:43325" placeholder="..." />
-                <marker date="1474719116239" expanded="true" signature="44376:44388" placeholder="..." />
-                <marker date="1474719116239" expanded="true" signature="45509:45523" placeholder="..." />
-                <marker date="1474719116239" expanded="true" signature="45862:45873" placeholder="..." />
+                <element signature="n#invitees#0;n#Home#0;n#!!top" expanded="false" />
+                <element signature="n#ajax_invite#0;n#Home#0;n#!!top" expanded="false" />
+                <marker date="1476941816263" expanded="false" signature="718:801" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="814:871" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="931:1005" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="937:1004" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="1013:1019" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="1028:1039" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="1051:1065" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="1074:1079" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="1130:1209" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="1222:1277" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="1608:1883" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="1914:2183" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="2216:2487" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="2519:2927" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="2587:2666" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="2958:3234" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="3269:4282" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="3377:3446" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="3383:3445" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="3458:3469" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="3521:3610" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="3623:3677" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="3842:3947" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="3960:4028" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="4312:4407" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="4439:5726" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="4673:5720" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="4778:5563" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="4989:5099" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="4995:5098" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="5111:5124" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="5175:5549" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="5301:5531" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="5760:8375" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="5929:8369" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="6069:8249" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="8407:8890" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="8513:8884" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="8618:8874" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="8920:9334" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="9361:11489" placeholder="{...}" />
+                <marker date="1476941816263" expanded="true" signature="9631:9693" placeholder="..." />
+                <marker date="1476941816263" expanded="true" signature="9631:9709" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="10657:10681" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="10694:10718" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="10773:10797" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="10939:10963" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="11065:11089" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="11272:11296" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="11435:11483" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="11518:11969" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="11623:11963" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="11753:11929" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="11820:11915" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="11952:11963" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="12007:13093" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="12117:13087" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="12223:13077" placeholder="{...}" />
+                <marker date="1476941816263" expanded="false" signature="12461:13001" placeholder="..." />
+                <marker date="1476941816263" expanded="false" signature="13130:45946" placeholder="{...}" />
+                <marker date="1476941816263" expanded="true" signature="43312:43324" placeholder="..." />
+                <marker date="1476941816263" expanded="true" signature="43312:43325" placeholder="..." />
+                <marker date="1476941816263" expanded="true" signature="44376:44388" placeholder="..." />
+                <marker date="1476941816263" expanded="true" signature="45509:45523" placeholder="..." />
+                <marker date="1476941816263" expanded="true" signature="45862:45873" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myApplication/config/autoload.php">
+      <file leaf-file-name="1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myApplication/views/lottery/1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myApplication/config/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="717">
+              <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="0.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myApplication/views/invite/0.php">
+        <entry file="file://$PROJECT_DIR$/myApplication/views/lottery/0.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="139" selection-start-line="23" selection-start-column="139" selection-end-line="23" selection-end-column="139" />
+            <state relative-caret-position="321">
+              <caret line="26" column="109" selection-start-line="26" selection-start-column="109" selection-end-line="26" selection-end-column="109" />
               <folding>
-                <marker date="1474658989387" expanded="true" signature="2535:2562" placeholder="{...}" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -238,7 +420,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#6287#7930#0#PHP" expanded="false" />
+                <element signature="e#11259#15046#0#PHP" expanded="false" />
+                <element signature="e#15661#17400#0#PHP" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -289,11 +475,12 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/myApplication/views/pages/historyInWorld.php" />
-        <option value="$PROJECT_DIR$/assets/login/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/login/css/form-elements.css" />
         <option value="$PROJECT_DIR$/assets/login/css/style.css" />
         <option value="$PROJECT_DIR$/myApplication/models/safiran/safiran.php" />
@@ -342,7 +529,9 @@
         <option value="$PROJECT_DIR$/myApplication/views/safir/editUser.php" />
         <option value="$PROJECT_DIR$/myApplication/controllers/Safir.php" />
         <option value="$PROJECT_DIR$/myApplication/views/invite/0.php" />
+        <option value="$PROJECT_DIR$/myApplication/views/lottery/0.php" />
         <option value="$PROJECT_DIR$/myApplication/controllers/Home.php" />
+        <option value="$PROJECT_DIR$/myApplication/views/lottery/1.php" />
       </list>
     </option>
   </component>
@@ -356,8 +545,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1032" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -384,7 +575,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -399,7 +589,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
+              <option name="myItemId" value="ehda-ahpha" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -409,7 +599,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
+              <option name="myItemId" value="ehda-ahpha" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -423,25 +613,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
+              <option name="myItemId" value="ehda-ahpha" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -452,10 +624,6 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -463,7 +631,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
+              <option name="myItemId" value="ehda-ahpha" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -475,7 +643,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="safir" />
+              <option name="myItemId" value="lottery" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -485,55 +653,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="new" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
+              <option name="myItemId" value="ehda-ahpha" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -549,132 +669,9 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="email_template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manage" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cardManagement" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ajax" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApplication" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Project Files">
@@ -704,16 +701,16 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\xampp\htdocs\card\myApplication\views\safir" />
-      <recent name="D:\xampp\htdocs\card\myApplication\views\email_template" />
-      <recent name="D:\xampp\htdocs\card\myApplication\views\manage\template" />
-      <recent name="D:\xampp\htdocs\card\myApplication\views\new\template" />
-      <recent name="D:\xampp\htdocs\card\assets\js\manage" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\card\myApplication\controllers" />
       <recent name="D:\xampp\htdocs\card\myApplication\views\card" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\ehda-ahpha\myApplication\views\lottery" />
+      <recent name="D:\xampp\htdocs\ehda-ahpha\myApplication\views" />
+      <recent name="D:\xampp\htdocs\card\myApplication\views\safir" />
+      <recent name="D:\xampp\htdocs\card\myApplication\views\email_template" />
+      <recent name="D:\xampp\htdocs\card\myApplication\views\manage\template" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.header.php">
@@ -807,17 +804,18 @@
       <workItem from="1474557734395" duration="4324000" />
       <workItem from="1474650572695" duration="6025000" />
       <workItem from="1474718873275" duration="863000" />
+      <workItem from="1476939019860" duration="3563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156902000" />
+    <option name="totallyTimeSpent" value="160465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extended-state="1" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25184017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -864,14 +862,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myApplication/views/new/template/userEditForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="66" column="264" selection-start-line="66" selection-start-column="264" selection-end-line="66" selection-end-column="264" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/content-footer.php" />
     <entry file="file://$USER_HOME$/Desktop/sidebar.php" />
     <entry file="file://$USER_HOME$/Desktop/single.php" />
     <entry file="file://$PROJECT_DIR$/myApplication/views/new/template/organDonation_registerForm.php">
@@ -960,13 +950,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nuts/assets/js/admin/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../nuts/assets/js/admin/admin.js" />
     <entry file="file://$PROJECT_DIR$/myApplication/views/manage/template/manageNews.php" />
     <entry file="file://$PROJECT_DIR$/myApplication/views/manage/template/editNews.php" />
     <entry file="file://$PROJECT_DIR$/myApplication/views/manage/template/sidebar.php">
@@ -1102,7 +1086,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#6287#7930#0#PHP" expanded="false" />
+            <element signature="e#11259#15046#0#PHP" expanded="false" />
+            <element signature="e#15661#17400#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1224,22 +1212,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApplication/config/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myApplication/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/safir/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5724">
@@ -1266,79 +1238,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myApplication/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApplication/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApplication/views/lottery/0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="26" column="109" selection-start-line="26" selection-start-column="109" selection-end-line="26" selection-end-column="109" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myApplication/controllers/Home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="3817" column="28" selection-start-line="3817" selection-start-column="20" selection-end-line="3817" selection-end-column="28" />
+        <state relative-caret-position="501">
+          <caret line="5523" column="62" selection-start-line="5523" selection-start-column="62" selection-end-line="5523" selection-end-column="62" />
           <folding>
             <element signature="n#__construct#0;n#Home#0;n#!!top" expanded="false" />
             <element signature="e#340#462#0#PHP" expanded="false" />
-            <marker date="1474719116239" expanded="false" signature="718:801" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="814:871" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="931:1005" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="937:1004" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="1013:1019" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="1028:1039" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="1051:1065" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="1074:1079" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="1130:1209" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="1222:1277" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="1608:1883" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="1914:2183" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="2216:2487" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="2519:2927" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="2587:2666" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="2958:3234" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="3269:4282" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="3377:3446" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="3383:3445" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="3458:3469" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="3521:3610" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="3623:3677" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="3842:3947" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="3960:4028" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="4312:4407" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="4439:5726" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="4673:5720" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="4778:5563" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="4989:5099" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="4995:5098" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="5111:5124" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="5175:5549" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="5301:5531" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="5760:8375" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="5929:8369" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="6069:8249" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="8407:8890" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="8513:8884" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="8618:8874" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="8920:9334" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="9361:11489" placeholder="{...}" />
-            <marker date="1474719116239" expanded="true" signature="9631:9693" placeholder="..." />
-            <marker date="1474719116239" expanded="true" signature="9631:9709" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="10657:10681" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="10694:10718" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="10773:10797" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="10939:10963" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="11065:11089" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="11272:11296" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="11435:11483" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="11518:11969" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="11623:11963" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="11753:11929" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="11820:11915" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="11952:11963" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="12007:13093" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="12117:13087" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="12223:13077" placeholder="{...}" />
-            <marker date="1474719116239" expanded="false" signature="12461:13001" placeholder="..." />
-            <marker date="1474719116239" expanded="false" signature="13130:45946" placeholder="{...}" />
-            <marker date="1474719116239" expanded="true" signature="43312:43324" placeholder="..." />
-            <marker date="1474719116239" expanded="true" signature="43312:43325" placeholder="..." />
-            <marker date="1474719116239" expanded="true" signature="44376:44388" placeholder="..." />
-            <marker date="1474719116239" expanded="true" signature="45509:45523" placeholder="..." />
-            <marker date="1474719116239" expanded="true" signature="45862:45873" placeholder="..." />
+            <element signature="n#invitees#0;n#Home#0;n#!!top" expanded="false" />
+            <element signature="n#ajax_invite#0;n#Home#0;n#!!top" expanded="false" />
+            <marker date="1476941816263" expanded="false" signature="718:801" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="814:871" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="931:1005" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="937:1004" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="1013:1019" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="1028:1039" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="1051:1065" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="1074:1079" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="1130:1209" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="1222:1277" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="1608:1883" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="1914:2183" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="2216:2487" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="2519:2927" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="2587:2666" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="2958:3234" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="3269:4282" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="3377:3446" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="3383:3445" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="3458:3469" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="3521:3610" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="3623:3677" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="3842:3947" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="3960:4028" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="4312:4407" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="4439:5726" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="4673:5720" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="4778:5563" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="4989:5099" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="4995:5098" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="5111:5124" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="5175:5549" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="5301:5531" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="5760:8375" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="5929:8369" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="6069:8249" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="8407:8890" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="8513:8884" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="8618:8874" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="8920:9334" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="9361:11489" placeholder="{...}" />
+            <marker date="1476941816263" expanded="true" signature="9631:9693" placeholder="..." />
+            <marker date="1476941816263" expanded="true" signature="9631:9709" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="10657:10681" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="10694:10718" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="10773:10797" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="10939:10963" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="11065:11089" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="11272:11296" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="11435:11483" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="11518:11969" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="11623:11963" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="11753:11929" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="11820:11915" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="11952:11963" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="12007:13093" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="12117:13087" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="12223:13077" placeholder="{...}" />
+            <marker date="1476941816263" expanded="false" signature="12461:13001" placeholder="..." />
+            <marker date="1476941816263" expanded="false" signature="13130:45946" placeholder="{...}" />
+            <marker date="1476941816263" expanded="true" signature="43312:43324" placeholder="..." />
+            <marker date="1476941816263" expanded="true" signature="43312:43325" placeholder="..." />
+            <marker date="1476941816263" expanded="true" signature="44376:44388" placeholder="..." />
+            <marker date="1476941816263" expanded="true" signature="45509:45523" placeholder="..." />
+            <marker date="1476941816263" expanded="true" signature="45862:45873" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApplication/views/lottery/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -5445,10 +5445,30 @@ class Home extends CI_Controller {
 
     }
 
+//    public function index()
+//    {
+//
+//        $invite = $this->db->select()->from('invitees')->order_by('name', 'asc')->get();
+//        if ($invite->num_rows())
+//        {
+//            $invite = $invite->result_array();
+//        }
+//        else
+//        {
+//            $invite = false;
+//        }
+//
+//        $data['invite'] = $invite;
+//
+//        $this->load->view('OnePage_template/header', $data);
+//        $this->load->view('invite/0', $data);
+//
+//    }
+
     public function index()
     {
 
-        $invite = $this->db->select()->from('invitees')->order_by('name', 'asc')->get();
+        $invite = $this->db->select()->from('lottery')->order_by('name', 'asc')->get();
         if ($invite->num_rows())
         {
             $invite = $invite->result_array();
@@ -5461,8 +5481,86 @@ class Home extends CI_Controller {
         $data['invite'] = $invite;
 
         $this->load->view('OnePage_template/header', $data);
-        $this->load->view('invite/0', $data);
+        $this->load->view('lottery/0', $data);
 
+    }
+
+    public function lottery()
+    {
+
+        $invite = $this->db->select()->from('lottery')->order_by('lottery', 'desc')->get();
+        if ($invite->num_rows())
+        {
+            $invite = $invite->result_array();
+        }
+        else
+        {
+            $invite = false;
+        }
+
+        $data['invite'] = $invite;
+
+        $this->load->view('OnePage_template/header', $data);
+        $this->load->view('lottery/1', $data);
+
+    }
+
+    public function ajax_lottery_list()
+    {
+
+        $invite = $this->db->select()->from('lottery')->order_by('lottery', 'desc')->get();
+        if ($invite->num_rows())
+        {
+            $invite = $invite->result_array();
+        }
+        else
+        {
+            $invite = false;
+        }
+
+        for ($i = 0, $a = 1; $i < count($invite); $i++)
+        {
+            $invite[$i]['row'] = pd($a);
+            $invite[$i]['lottery'] = pd($invite[$i]['lottery']);
+        }
+
+        $data['lottory'] = $invite;
+        $data['count'] = count($invite);
+        echo json_encode($data);
+
+    }
+
+    public function ajax_lottery()
+    {
+        $id = $this->input->post('inID', true);
+        $act = $this->input->post('inAct', true);
+        $lott = $this->db->select()->from('lottery')->where('id', $id)->get();
+        $lott = $lott->row_array();
+        if($id && $act)
+        {
+            $update = array();
+            if ($act == 'add')
+            {
+                $update['lottery'] = $lott['lottery']+1;
+            }
+            else
+            {
+                $update['lottery'] = $lott['lottery']-1;
+            }
+
+            $this->db->where('id', $id);
+            $this->db->update('lottery', $update);
+
+            $data['lottery'] = pd($update['lottery']);
+            $data['status'] = 1;
+            echo json_encode($data);
+
+        }
+        else
+        {
+            $data = 0;
+            echo json_encode($data);
+        }
     }
 
     public function ajax_invite()
