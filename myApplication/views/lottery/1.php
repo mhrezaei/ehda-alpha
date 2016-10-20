@@ -1,6 +1,7 @@
 <?php if (count($invite)){ ?>
 <style>
     body{
+/*        background: url("*/<?php //asset_url(); ?>/*images/bgg.jpg") !important;*/
         background: white !important;
     }
 </style>
